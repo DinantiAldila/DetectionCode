@@ -1,4 +1,4 @@
-Collaborative DDoS Detection in collaborative intrusion detection system for Heterogeneous Network Using Multi Deep Learning Model Ensemble Stacking
+#Collaborative DDoS Detection in collaborative intrusion detection system for Heterogeneous Network Using Multi Deep Learning Model Ensemble Stacking
 
 # DetectionCode
 Code of the experiment of Collaborative DDoS Detection in collaborative intrusion detection system for Heterogeneous Network Using Multi Deep Learning Model Ensemble Stacking paper
@@ -7,7 +7,7 @@ the code already included for the dataset import from kaggle, dataset exploratio
 dataset 1: nfbotiot
 dataset 2:nf-cse-cic-ids2018
 dataset 3:nftoniot
-=========================================================================================
+
 experiment 1
 MLP - nftoniot
 CNN - nf-cse-cic-ids2018
