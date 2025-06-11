@@ -4,10 +4,16 @@ DetectionCode
 Code of the experiment of Collaborative DDoS Detection in collaborative intrusion detection system for Heterogeneous Network Using Multi Deep Learning Model Ensemble Stacking paper
 the code already included for the dataset import from kaggle, dataset exploration ,and cleaning. The model already implemented in the file too. it will give the result after run it all. 
 
-dataset 1: nfbotiot
-dataset 2:nf-cse-cic-ids2018
-dataset 3:nftoniot
-
+dataset 1 : NF-BoT-IoT 
+- https://www.kaggle.com/api/v1/datasets/download/dhoogla/nfbotiot
+- /content/nfbotiot/NF-BoT-IoT.parquet
+dataset 2 : nf-cse-cic-ids2018 
+- https://www.kaggle.com/api/v1/datasets/download/dhoogla/nf-cse-cic-ids2018
+- /content/nf-cse-cic-ids2018/NF-CSE-CIC-IDS2018.parquet
+dataset 3 : nftoniot 
+- https://www.kaggle.com/api/v1/datasets/download/dhoogla/nftoniot
+- /content/nftoniot/NF-ToN-IoT.parquet
+  
 experiment 1
 MLP - nftoniot
 CNN - nf-cse-cic-ids2018
